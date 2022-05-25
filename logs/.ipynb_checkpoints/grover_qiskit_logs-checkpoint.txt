@@ -1,0 +1,4 @@
+----------------------------------------------------------------
+Fri May 20 07:57:09 2022
+Algorithm: Grover ; Qubits: 20 ; blocking_qubits: 15 ; method='matrix_product_state'
+
